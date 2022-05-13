@@ -6,13 +6,13 @@
 
 <h2>Resolução:</h2>
 <h3>Inserção:</h3>
-<p align="justify"> Insere um valor na lista<p>
+<p align="justify"> Insere um valor na lista.<p>
 <img src="imgs/insercao.jpeg" alt=insercaoDiagrama>
 
 <h3>Remoção:</h3>
-<p align="justify"> Remove um valor da lista<p>
+<p align="justify"> Remove um valor da lista.<p>
 <img src="imgs/remocao.jpeg" alt=remocaoDiagrama>
 
 <h3>Pesquisa:</h3>
-<p align="justify"> Pesquisa um valor na lista<p>
+<p align="justify"> Pesquisa um valor na lista.<p>
 <img src="imgs/pesquisa.jpeg" alt=pesquisaDiagrama>
