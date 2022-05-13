@@ -9,7 +9,7 @@
 <img src="imgs/insercao.jpeg" alt=insercaoDiagrama>
 
 <h3>Remoção:</h3>
-<img src="imgs/remocao.jpeg" alt=insercaoDiagrama>
+<img src="imgs/remocao.jpeg" alt=remocaoDiagrama>
 
 <h3>Pesquisa:</h3>
-<img src="imgs/pesquisa.jpeg" alt=insercaoDiagrama>
+<img src="imgs/pesquisa.jpeg" alt=pesquisaDiagrama>
